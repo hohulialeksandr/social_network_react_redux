@@ -1,0 +1,23 @@
+.header {
+  grid-area: h;
+  background-color: blue;
+}
+
+.header img {
+  width: 25px;
+}
+
+.loginBlock {
+  float: right
+}
+
+.loginBlock a {
+  color: aqua;
+  text-decoration: none;
+}
+
+.logout {
+  height: 20px;
+  border-radius: 15px;
+}
+
